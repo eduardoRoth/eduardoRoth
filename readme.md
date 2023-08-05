@@ -1,7 +1,7 @@
 ![HeroDevs LinkedIn Banner](https://github.com/eduardoRoth/eduardoRoth/assets/5419161/c9f8d1f7-105a-4b48-be48-896357a95e03)
 
 # 💫 About Me:
-I'm a Senior Software Engineer working at HeroDevs and living in Monterrey, Mexico. Husband, father of three beautiful daughters, loves everything Angular, Ionic and Web related. He's co-organizer of the Spanish chapter of the Angular Community Meetup, organizer of the Ionic Monterey Meetup, an Ionic Developer Expert, an ngChampion, and in the road to become an Angular GDE.
+I'm a Senior Software Engineer working at HeroDevs and living in Monterrey, Mexico. Husband, father of three beautiful daughters, loves everything Angular, Ionic and Web related. Co-organizer of the Spanish chapter of the Angular Community Meetup, organizer of the Ionic Monterey Meetup, an Ionic Developer Expert, an ngChampion, and in the road to become an Angular GDE.
 
 
 ## 🌐 Socials:
