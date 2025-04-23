@@ -1,12 +1,17 @@
 ![HeroDevs LinkedIn Banner](https://github.com/user-attachments/assets/2b80ce9b-5d93-44b1-bf28-a4bff364eb91)
 
 # 👨🏻‍💻 About Me
-I'm a Solutions Architect working at HeroDevs and living in Monterrey, Mexico. Husband, father of three beautiful daughters, loves everything Angular, Ionic and Web related. I contribute frequently to the OSS community, Nx Certified Expert, Ionic Developer Expert, ng-champion, in the road to become an Angular GDE.
+I'm a Solutions Architect working at HeroDevs. Husband, father of three beautiful daughters, loves everything Angular, Ionic and Web related. I contribute frequently to the OSS community.
+
+I'm a Google Developer Expert in Angular, an Nx Certified Expert, an Ionic Developer Expert, and an ng-champion.
 
 I'm also an organizer of the Angular Community Meetup and the Google Developer Group Monterrey.
 
-<img id="nx-expert" src="https://github.com/user-attachments/assets/52c80524-4b5b-479a-9205-bdcf9255b13b" height="175"/>
-<img id="ide" src="https://github.com/user-attachments/assets/9a0b5848-5e80-4df6-a7ed-91802acd0135" alt="ide-badge" height="175" />
+------------
+
+<img id="gde" src="https://github.com/user-attachments/assets/a2d93bb9-5d7c-4a48-bd65-6864b324656d" alt="Google Developer Expert in Angular" height="150" />
+<img id="nx-expert" src="https://github.com/user-attachments/assets/9a0b5848-5e80-4df6-a7ed-91802acd0135" alt="Certified Nx Expert" height="150" />
+<img id="ide" src="https://github.com/user-attachments/assets/52c80524-4b5b-479a-9205-bdcf9255b13b" alt="Ionic Developer Expert" height="150" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardoRoth) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eduardoRoth) 
