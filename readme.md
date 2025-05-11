@@ -7,7 +7,21 @@ I'm a Google Developer Expert in Angular, an Nx Certified Expert, an Ionic Devel
 
 I'm also an organizer of the Angular Community Meetup and the Google Developer Group Monterrey.
 
-<img alt="Eduardo Roth certification badges, including Google Developer Expert in Angular, Nx Certified Expert and Ionic Developer Expert" src="https://github.com/user-attachments/assets/28958999-3d18-475c-b12e-e421502b08c8" />
+<table border="20">
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/8f03da31-59de-4a4e-9ab5-9303e715d8ee" alt="GDE Angular 2025 badge" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/909dba0a-3a46-4522-ab5d-64c03b39907b" alt="Nx Certified Expert badge" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/71dbba10-c028-48e5-9261-185fe2c3d889" alt="Ionic Developer Expert badge" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ------------
 
