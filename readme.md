@@ -7,7 +7,7 @@ I'm a Google Developer Expert in Angular, an Nx Certified Expert, an Ionic Devel
 
 I'm also an organizer of the Angular Community Meetup and the Google Developer Group Monterrey.
 
-<table border="20">
+<table border="0">
   <tbody>
     <tr>
       <td>
